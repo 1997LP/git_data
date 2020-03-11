@@ -1,0 +1,4 @@
+﻿  tu.cpp
+E:\c_practice\my_tu\tu.cpp(132,59): warning C4129: “ ”: 不可识别的字符转义序列
+E:\c_practice\my_tu\tu.cpp(130,7): warning C4101: “q”: 未引用的局部变量
+  my_tu.vcxproj -> E:\c_practice\my_tu\Debug\my_tu.exe
